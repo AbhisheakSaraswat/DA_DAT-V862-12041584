@@ -1,0 +1,1 @@
+We covered follows: SQL Ranking, SQL Aggregate, SQL Analytical etc
