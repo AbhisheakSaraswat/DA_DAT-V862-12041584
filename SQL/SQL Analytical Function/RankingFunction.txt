@@ -1,0 +1,16 @@
+Q: What is the primary use of SQL Aggregate Function?
+A: All SQL aggregate functions are used to perform a calc on multiple rows of tables and return
+a single value for the entire group.
+
+Seletct region, sum(sales) as totalsales from superstore group by region
+
+SQL Aggregate funtions: Sum, avg, count, max, min
+
+Analytical(Window) Functions: 
+Q: What is primary use of windows function?
+A: Analytical function (window function) performs the calcs across a set of rows while preserving
+individual rows in the result set. More specifically, they do not reduce the number of rows in the result set like sql aggregate function, Inplace of this, they compute a value based on a group of rows for each row.
+
+Example: Row_number(), Rank(), Dense_Rank(), Sum() Over(), Lag(), Lead()
+
+These SQL Analytical function give your details about each row or row by row.
