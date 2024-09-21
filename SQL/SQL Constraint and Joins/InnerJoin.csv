@@ -1,0 +1,90 @@
+"Order ID",Customer,City,Quantity,Price,"Total Sale Amount","Order ID",Customer,City,State
+WA-2016-117590,"Judy Sanchez",Seattle,7,53.35,373.45,WA-2016-117590,"Judy Sanchez",Seattle,Washington
+WA-2015-117415,"Harold Hunter",Seattle,4,12.42,49.68,WA-2015-117415,"Harold Hunter",Seattle,Washington
+MA-2017-120999,"Lori Shaw",Lowell,7,16.32,114.24,MA-2017-120999,"Lori Shaw",Lowell,Massachusetts
+NJ-2016-101343,"Sandra Hicks",Troy,1,53.35,53.35,NJ-2016-101343,"Sandra Hicks",Troy,"New York"
+MA-2017-139619,"Roger Gomez",Lowell,7,16.32,114.24,MA-2017-139619,"Roger Gomez",Lowell,Massachusetts
+NJ-2016-118255,"Kimberly Coleman",Westfield,1,17.83,17.83,NJ-2016-118255,"Kimberly Coleman",Westfield,"New Jersey"
+OR-2016-169194,"Rachel Harris",Portland,2,12.42,24.84,OR-2016-169194,"Rachel Harris",Portland,Oregon
+MA-2016-105816,"Gary Young",Lowell,3,17.83,53.49,MA-2016-105816,"Gary Young",Lowell,Massachusetts
+CA-2015-135545,"Joan Robinson","Los Angeles",2,12.42,24.84,CA-2015-135545,"Joan Robinson","Los Angeles",California
+OR-2014-106376,"Raymond Matthews",Portland,1,12.42,12.42,OR-2014-106376,"Raymond Matthews",Portland,Oregon
+CA-2016-119823,"Mary Rose","Los Angeles",10,17.83,178.3,CA-2016-119823,"Mary Rose","Los Angeles",California
+WA-2016-106075,"Raymond Matthews",Seattle,9,17.83,160.47,WA-2016-106075,"Raymond Matthews",Seattle,Washington
+NJ-2017-114440,"Randy Willis",Westfield,3,17.83,53.49,NJ-2017-114440,"Randy Willis",Westfield,"New Jersey"
+NJ-2017-140088,"Anthony Berry",Troy,6,16.32,97.92,NJ-2017-140088,"Anthony Berry",Troy,"New York"
+WA-2017-161018,"Daniel Perez",Seattle,3,12.42,37.26,WA-2017-161018,"Daniel Perez",Seattle,Washington
+NJ-2016-129903,"Anthony Berry",Troy,4,16.32,65.28,NJ-2016-129903,"Anthony Berry",Troy,"New York"
+OR-2015-129476,"Jacqueline Little",Portland,3,17.83,53.49,OR-2015-129476,"Jacqueline Little",Portland,Oregon
+MA-2015-110457,"Jacqueline Little",Lowell,8,53.35,426.8,MA-2015-110457,"Jacqueline Little",Lowell,Massachusetts
+OR-2017-107272,"Henry Stanley",Portland,5,17.83,89.15,OR-2017-107272,"Henry Stanley",Portland,Oregon
+NJ-2016-110366,"Billy Reed",Troy,5,16.32,81.6,NJ-2016-110366,"Billy Reed",Troy,"New York"
+NJ-2014-110072,"Stephen Welch",Westfield,3,53.35,160.05,NJ-2014-110072,"Stephen Welch",Westfield,"New Jersey"
+MA-2015-118948,"Stephen Welch",Lowell,9,12.42,111.78,MA-2015-118948,"Stephen Welch",Lowell,Massachusetts
+NJ-2016-114104,"Stephen Welch",Troy,3,12.42,37.26,NJ-2016-114104,"Stephen Welch",Troy,"New York"
+CA-2016-162733,"Stephen Welch","Los Angeles",6,16.32,97.92,CA-2016-162733,"Stephen Welch","Los Angeles",California
+MA-2016-154508,"Stephen Welch",Lowell,1,12.42,12.42,MA-2016-154508,"Stephen Welch",Lowell,Massachusetts
+MA-2016-113817,"Stephen Welch",Lowell,7,53.35,373.45,MA-2016-113817,"Stephen Welch",Lowell,Massachusetts
+MA-2014-139892,"Stephen Welch",Lowell,1,12.42,12.42,MA-2014-139892,"Stephen Welch",Lowell,Massachusetts
+MA-2015-101511,"Stephen Welch",Lowell,8,12.42,99.36,MA-2015-101511,"Stephen Welch",Lowell,Massachusetts
+WA-2016-157000,"Philip Rodriguez",Seattle,4,17.83,71.32,WA-2016-157000,"Philip Rodriguez",Seattle,Washington
+WA-2017-105074,"Philip Dean",Seattle,3,17.83,53.49,WA-2017-105074,"Philip Dean",Seattle,Washington
+NJ-2017-108329,"Joe Ryan",Troy,4,16.32,65.28,NJ-2017-108329,"Joe Ryan",Troy,"New York"
+CA-2015-145436,"Frank Garrett","Los Angeles",10,53.35,533.5,CA-2015-145436,"Frank Garrett","Los Angeles",California
+OR-2016-145625,"Billy Scott",Portland,4,16.32,65.28,OR-2016-145625,"Billy Scott",Portland,Oregon
+WA-2015-168935,"Mildred Moore",Seattle,6,12.42,74.52,WA-2015-168935,"Mildred Moore",Seattle,Washington
+NJ-2016-127369,"Bonnie Wagner",Troy,8,17.83,142.64,NJ-2016-127369,"Bonnie Wagner",Troy,"New York"
+WA-2014-133753,"Gary Weaver",Seattle,4,16.32,65.28,WA-2014-133753,"Gary Weaver",Seattle,Washington
+NJ-2014-140795,"Martha Mills",Westfield,10,12.42,124.2,NJ-2014-140795,"Martha Mills",Westfield,"New Jersey"
+NJ-2014-131450,"Janet Freeman",Troy,1,53.35,53.35,NJ-2014-131450,"Janet Freeman",Troy,"New York"
+WA-2016-132661,"Jason Jackson",Seattle,9,16.32,146.88,WA-2016-132661,"Jason Jackson",Seattle,Washington
+OR-2017-146136,"Rose Matthews",Portland,2,12.42,24.84,OR-2017-146136,"Rose Matthews",Portland,Oregon
+MA-2017-126046,"Andrea King",Lowell,10,17.83,178.3,MA-2017-126046,"Andrea King",Lowell,Massachusetts
+CA-2015-106565,"Jacqueline Little","Los Angeles",5,17.83,89.15,CA-2015-106565,"Jacqueline Little","Los Angeles",California
+CT-2016-158099,"Irene Franklin",Fairfield,3,53.35,160.05,CT-2016-158099,"Irene Franklin",Fairfield,Connecticut
+OR-2017-137596,"Phillip Harrison",Portland,5,16.32,81.6,OR-2017-137596,"Phillip Harrison",Portland,Oregon
+CT-2015-160059,"Janice Ford",Fairfield,5,53.35,266.75,CT-2015-160059,"Janice Ford",Fairfield,Connecticut
+MA-2017-135034,"Dennis Reed",Lowell,10,12.42,124.2,MA-2017-135034,"Dennis Reed",Lowell,Massachusetts
+NJ-2015-161263,"Edward Wells",Westfield,10,12.42,124.2,NJ-2015-161263,"Edward Wells",Westfield,"New Jersey"
+OR-2014-147627,"Marilyn Graham",Portland,7,12.42,86.94,OR-2014-147627,"Marilyn Graham",Portland,Oregon
+MA-2016-168081,"Joan Cooper",Lowell,4,12.42,49.68,MA-2016-168081,"Joan Cooper",Lowell,Massachusetts
+CA-2017-117079,"Helen Diaz","Los Angeles",9,12.42,111.78,CA-2017-117079,"Helen Diaz","Los Angeles",California
+CT-2017-126179,"Ryan Arnold",Fairfield,5,12.42,62.1,CT-2017-126179,"Ryan Arnold",Fairfield,Connecticut
+NJ-2014-153976,"Benjamin Spencer",Westfield,1,53.35,53.35,NJ-2014-153976,"Benjamin Spencer",Westfield,"New Jersey"
+NJ-2016-136329,"Debra Allen",Troy,1,17.83,17.83,NJ-2016-136329,"Debra Allen",Troy,"New York"
+CA-2016-128902,"Nicholas Schmidt","Los Angeles",9,12.42,111.78,CA-2016-128902,"Nicholas Schmidt","Los Angeles",California
+NV-2016-100468,"Craig Lewis","Las Vegas",4,12.42,49.68,NV-2016-100468,"Craig Lewis","Las Vegas",Nevada
+WA-2014-134278,"Maria Romero",Seattle,5,16.32,81.6,WA-2014-134278,"Maria Romero",Seattle,Washington
+MA-2016-132423,"Eric Robertson",Lowell,4,16.32,65.28,MA-2016-132423,"Eric Robertson",Lowell,Massachusetts
+MA-2015-105221,"Louise Green",Lowell,8,53.35,426.8,MA-2015-105221,"Louise Green",Lowell,Massachusetts
+OR-2015-148376,"Clarence Bishop",Portland,1,16.32,16.32,OR-2015-148376,"Clarence Bishop",Portland,Oregon
+OR-2017-168837,"Kathy Lee",Portland,2,12.42,24.84,OR-2017-168837,"Kathy Lee",Portland,Oregon
+OR-2016-116729,"Lillian Howard",Portland,7,12.42,86.94,OR-2016-116729,"Lillian Howard",Portland,Oregon
+NJ-2014-114643,"Theresa Torres",Westfield,1,16.32,16.32,NJ-2014-114643,"Theresa Torres",Westfield,"New Jersey"
+NJ-2017-108063,"Rachel Larson",Westfield,5,12.42,62.1,NJ-2017-108063,"Rachel Larson",Westfield,"New Jersey"
+NJ-2017-161200,"Peter Gilbert",Troy,9,53.35,480.15,NJ-2017-161200,"Peter Gilbert",Troy,"New York"
+MA-2017-143028,"Susan Watkins",Lowell,5,53.35,266.75,MA-2017-143028,"Susan Watkins",Lowell,Massachusetts
+WA-2017-110996,"Annie Hughes",Seattle,4,16.32,65.28,WA-2017-110996,"Annie Hughes",Seattle,Washington
+MA-2017-158246,"Jeremy Richards",Lowell,3,53.35,160.05,MA-2017-158246,"Jeremy Richards",Lowell,Massachusetts
+WA-2017-166296,"Angela Sullivan",Seattle,3,53.35,160.05,WA-2017-166296,"Angela Sullivan",Seattle,Washington
+MA-2017-129378,"Roger Gomez",Lowell,3,53.35,160.05,MA-2017-129378,"Roger Gomez",Lowell,Massachusetts
+CT-2017-122994,"Betty Hicks",Fairfield,9,12.42,111.78,CT-2017-122994,"Betty Hicks",Fairfield,Connecticut
+NJ-2015-160794,"Marilyn Martin",Troy,7,53.35,373.45,NJ-2015-160794,"Marilyn Martin",Troy,"New York"
+NJ-2014-102295,"Louis Marshall",Troy,6,17.83,106.98,NJ-2014-102295,"Louis Marshall",Troy,"New York"
+NJ-2017-168655,"Betty Stewart",Troy,5,16.32,81.6,NJ-2017-168655,"Betty Stewart",Troy,"New York"
+CT-2017-102750,"Carlos Stephens",Fairfield,3,53.35,160.05,CT-2017-102750,"Carlos Stephens",Fairfield,Connecticut
+NJ-2016-124352,"Albert Dunn",Westfield,9,53.35,480.15,NJ-2016-124352,"Albert Dunn",Westfield,"New Jersey"
+NJ-2017-109778,"Juan Reed",Troy,5,12.42,62.1,NJ-2017-109778,"Juan Reed",Troy,"New York"
+MA-2015-162369,"Aaron Morris",Lowell,8,53.35,426.8,MA-2015-162369,"Aaron Morris",Lowell,Massachusetts
+WA-2016-144211,"Terry Nguyen",Seattle,6,12.42,74.52,WA-2016-144211,"Terry Nguyen",Seattle,Washington
+WA-2015-129770,"Craig Hicks",Seattle,6,53.35,320.1,WA-2015-129770,"Craig Hicks",Seattle,Washington
+WA-2015-127019,"Gary Cook",Seattle,2,12.42,24.84,WA-2015-127019,"Gary Cook",Seattle,Washington
+NJ-2014-148915,"Emily Patterson",Troy,2,53.35,106.7,NJ-2014-148915,"Emily Patterson",Troy,"New York"
+CT-2014-148040,"Annie Collins",Fairfield,8,53.35,426.8,CT-2014-148040,"Annie Collins",Fairfield,Connecticut
+NJ-2014-113929,"Randy Willis",Westfield,3,16.32,48.96,NJ-2014-113929,"Randy Willis",Westfield,"New Jersey"
+MA-2017-167941,"Kenneth Nelson",Lowell,10,16.32,163.2,MA-2017-167941,"Kenneth Nelson",Lowell,Massachusetts
+OR-2016-160528,"Henry Day",Portland,8,12.42,99.36,OR-2016-160528,"Henry Day",Portland,Oregon
+WA-2017-106859,"Jennifer Adams",Seattle,7,53.35,373.45,WA-2017-106859,"Jennifer Adams",Seattle,Washington
+WA-2014-136399,"Stephanie Wallace",Seattle,2,17.83,35.66,WA-2014-136399,"Stephanie Wallace",Seattle,Washington
+MA-2017-105921,"Joshua Diaz",Lowell,2,17.83,35.66,MA-2017-105921,"Joseph Bishop",Lowell,Massachusetts
+CT-2014-137274,"Brandon Morales",Fairfield,1,53.35,53.35,CT-2014-137274,"Debra Gutierrez",Fairfield,Connecticut
