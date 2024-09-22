@@ -1,0 +1,6 @@
+1. SQL Constriant: Unique, default, check, not null
+2. CTE
+3. Temp Table
+4. View
+5. Stored Procedure
+6. Regex
