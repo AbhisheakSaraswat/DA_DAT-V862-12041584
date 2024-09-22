@@ -1,1 +1,6 @@
+1.) Python Insallation and Guide of PIP Command:
+        https://youtu.be/jEnsw8jkvsQ?si=jRme04BCOfcmSgZ3
+2.) Mastering SQL for EDA : A Comprehensive SQL Project Guide with Queries
+        https://www.youtube.com/watch?v=F7xhWHQNyvY
+
 
