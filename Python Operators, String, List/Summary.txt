@@ -1,0 +1,4 @@
+1. Python Multiple typle of Operators
+2. Python String
+3. Python String Assignment (based on Email Masking...)
+4. Python List Data Structure
