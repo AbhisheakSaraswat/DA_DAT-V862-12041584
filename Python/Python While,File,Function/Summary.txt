@@ -1,0 +1,7 @@
+python enumerate
+python zip
+pyhton zip_longest
+python os
+python file handling
+python function
+python args and kwargs
