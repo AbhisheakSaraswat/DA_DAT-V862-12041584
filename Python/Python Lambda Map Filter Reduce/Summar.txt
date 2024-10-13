@@ -1,0 +1,7 @@
+Python lambda 
+Python Lambda with user defined
+Python map
+Python Lambda with Map
+Python Lambda with Filter
+Python Lambda with Reduce
+Python Lambda with Map, Filter, Reduce
