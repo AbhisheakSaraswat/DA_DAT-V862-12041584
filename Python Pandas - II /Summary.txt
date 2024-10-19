@@ -1,0 +1,16 @@
+Shape, unique, nunique, encoding (ISO-8859-1)
+Describe
+columns(rename, lower, replace etc)
+Info, dtypes
+Filter
+Split the data based on speific columns and saved into csv
+loc and iloc (*select the rows using iloc and loc)
+Pivot Table
+Group by
+Set Index
+Reset Index
+Drop duplicates and sort values
+drop function (to drop the rows and columns)
+datetime object
+Basics plots
+
