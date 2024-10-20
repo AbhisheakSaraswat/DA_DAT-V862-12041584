@@ -1,0 +1,6 @@
+Pandas tranformation using merge, concat
+handling missing values
+numpy
+pandas sql reading the data
+pandas bulk upload (csv) into the database
+pandas apply with numpy function : np.where
