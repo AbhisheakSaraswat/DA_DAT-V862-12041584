@@ -1,0 +1,10 @@
+Tableu components:
+
+1.) Tableau Desktop  - 95-98% of tableau developer for development, reports, share them to server.
+2.) Tableau Server -  Admin Activities 
+3.) Tableau Reader
+4.) Tableau Public
+5.) Tableau Mobile
+6.) Tableau Online
+7.) Tableau Vizable
+8.) Tableau Prep
