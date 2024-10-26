@@ -1,0 +1,5 @@
+1. Python Parallel compution
+2. Python images
+3. Python api
+4. Python regression and encoding
+4. Tableau
