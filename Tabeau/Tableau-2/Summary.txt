@@ -1,0 +1,6 @@
+Data visualization using Tableau with different -2  chart
+How to create the Calc fields
+How to add multiple data sources
+How to play the map charts
+what are the data types we have in tableau?
+How to build donut chart etc
