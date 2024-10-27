@@ -1,0 +1,15 @@
+q. What are the connection types in tableau, what is the default one?
+a. We have two types of connection
+	1. Live connection (default)
+	2. Extract Connection
+q. In live connection, file is delete then what will happen?
+a. You can view the data, but you can not work on the data when you delete the file.
+
+Q. What are the different data type in tableau?
+A. Data Types:
+	* Number (whole, decimal) - #
+	* String - Abc
+	* Date - Calendar Icon
+	* Date and Time - Calendar with clock icon
+	* Boolean - T|F
+	* Geographical Format - Global Icon (we can work on maps - lat, long)
